@@ -1,4 +1,6 @@
 # AdvancedWidget1
+Ifan Rifa'i Hardiyanto_XI RPL 3_14_4722_SMK TELKOM MALANG
+
 Aplikasi ini dibuat untuk dasar pembelajaran dengan menggunakan metode programmatically.
 ![1](https://cloud.githubusercontent.com/assets/22077698/18815669/8a4e4754-8361-11e6-8410-b4c265896242.jpg)
 ![2](https://cloud.githubusercontent.com/assets/22077698/18815671/8a588b24-8361-11e6-914a-d0397ca0875c.jpg)
